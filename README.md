@@ -65,7 +65,7 @@ Functional Specification:
 
 
 
-<b>### Running the Project Locally</b>
+<b>Running the Project Locally</b>
 
 #### 1. Install XAMPP Server
    - Download and install the XAMPP server app on your desktop.
