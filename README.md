@@ -65,12 +65,33 @@ Functional Specification:
 
 
 
-<b>How to run this project locally</b>
-1. Download the XAMPP server app and Install it in your desktop
-2. clone this  repository in your system and copy repo and 1.go XAMPP folder ,2. htdox folder , then paste it in htdox folder
-3. Open XAMPP control panel then 1.Click to Start apache Action , 2. Click to Start MySql Action and wait few seconds 3. Click Admin next to the start button in MySql Row it will redirect you to website 
-4. click the New button in top left corner 1. Give the DB name as your saved project folder name copy it and paste it in DB name section 2 . click Create to create a new DB it will be created 
-5. Go to  Import section in top middle of your website 1. click choose file button 2.Go to xampp  folder then go to htdox , 2.then open ur projrct like AgroCulture folder in that there will an agroculture.sql file add it, 3. scroll down and import it , 4. Queries will  be imported wait few mins then. 
-5. Go to new web tab and type - /localhost/your project folder name / like eg- /localhost/agroculture/ you will get your website which is  successfully implemented and executed 
+<b>### Running the Project Locally</b>
+
+#### 1. Install XAMPP Server
+   - Download and install the XAMPP server app on your desktop.
+
+#### 2. Clone Repository and Set Up
+   - Clone the project repository to your local system.
+   - Copy the project folder and the `1.go` file to the XAMPP installation directory (usually located in the `htdocs` folder).
+
+#### 3. Start XAMPP Server
+   - Open the XAMPP control panel.
+   - Start Apache and MySQL by clicking the corresponding "Start" buttons.
+   - Click "Admin" next to the MySQL row to access the MySQL database through a web interface.
+
+#### 4. Create a Database
+   - Click on "New" in the top-left corner.
+   - Enter the project folder name as the database name and click "Create" to create a new database.
+
+#### 5. Import Database
+   - In the MySQL web interface, go to the "Import" section.
+   - Click "Choose File" and select the `agroculture.sql` file from the project folder.
+   - Scroll down, and click "Import" to execute the queries. Wait for the import to complete.
+
+#### 6. Access the Website
+   - Open a new web browser tab and type: `localhost/your_project_folder_name` (e.g., `localhost/agroculture/`).
+   - You should see your website successfully implemented and executed.
+
+
 
 
