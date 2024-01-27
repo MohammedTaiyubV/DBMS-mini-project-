@@ -7,7 +7,7 @@
 
 <b>Back-End:</b> PHP,MySql,XAMPP
 
-<b>Link: <a href=https://mohammedtaiyubv.github.io/CODSOFT2> rakeshmariyaplar.herokuapp.com/</a></b>
+</b>
 
 
 <b>Software Used:</b>XAMPP
