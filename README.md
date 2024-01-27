@@ -66,7 +66,7 @@ Functional Specification:
 
 
 <b>How to run this project locally</b>
-1. Download XAMPP server app and Install it in your desktop
+1. Download the XAMPP server app and Install it in your desktop
 2. clone this  repository in your system and copy repo and 1.go XAMPP folder ,2. htdox folder , then paste it in htdox folder
 3. Open XAMPP control panel then 1.Click to Start apache Action , 2. Click to Start MySql Action and wait few seconds 3. Click Admin next to the start button in MySql Row it will redirect you to website 
 4. click the New button in top left corner 1. Give the DB name as your saved project folder name copy it and paste it in DB name section 2 . click Create to create a new DB it will be created 
