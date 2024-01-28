@@ -1,5 +1,5 @@
 # DBMS-MINI-Project
- DBMS project on topic Agriculture Management System
+ DBMS project - topic : Agriculture Management System
 
 <b>Technology Used:</b>
 
